@@ -1,0 +1,16 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Encyclopedia
+{% endblock %}
+
+{% block body %}
+    <h1>Similar results to "{{ searched }}":</h1>
+
+    <ul>
+        {% for each in close %}
+            <li><a href="/wiki/{{ each }}">{{ each }}</a></li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}
