@@ -6,6 +6,14 @@
 
 {% block body %}
 
+    <form method="POST" action="{% url 'editpage' %}">
+ 
+        {% csrf_token %}
+        <input type="hidden" name="etitle" value="{{ named }}">
+        <button class="btn btn-primary" type="submit">Edit</button>
+
+    </form>
+    
     {{ entry|safe }}
 
 {% endblock %}
