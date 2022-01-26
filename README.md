@@ -1,4 +1,5 @@
 # CS50W Project 1 - Wiki
+Project 2/6 for CS50w
 > Status: completed & submitted (Pass)
   
 ### Description:
