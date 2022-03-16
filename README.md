@@ -3,7 +3,7 @@ Status: completed & submitted (Pass)
 
 # Description:
 * [Project specification](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
-* Languages used are HTML, CSS and Python. **Django is used as web framework**.
+* Languages used are HTML, CSS and Python. **[Django](www.djangoproject.com) is used as web framework**.
 * Uses [markdown syntax](https://www.markdownguide.org/basic-syntax/) for creating an entry.
 
 # Setup 
