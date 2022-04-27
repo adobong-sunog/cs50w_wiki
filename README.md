@@ -7,11 +7,11 @@ Status: completed & submitted (Pass)
 * Uses [markdown syntax](https://www.markdownguide.org/basic-syntax/) for creating an entry.
 
 ## Setup 
-> Python, [Git](https://git-scm.com) and [Django](https://www.djangoproject.com) must be installed on your computer.  
+> Python and [Git](https://git-scm.com) must be installed on your computer.  
 > Creating a virtual environment is optional, but it is usually better to do so if you know how.
 
 Clone this repository
-```
+```bash
 git clone https://github.com/AncientSoup/cs50w_wiki/
 cd cs50w_wiki
 ```  
