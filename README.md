@@ -12,7 +12,7 @@ Status: completed & submitted (Pass)
 
 Clone this repository
 ```bash
-git clone https://github.com/AncientSoup/cs50w_wiki/
+git clone https://github.com/adobong-sunog/cs50w_wiki/
 cd cs50w_wiki
 ```  
 Install any required dependencies
